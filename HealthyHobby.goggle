@@ -1,0 +1,13 @@
+! name: HealthyHobby
+! description: Boosts health-related sites
+! public: true
+! author: Brayden Crosta
+
+$discard
+$boost=4,site=healthline.com
+$boost=4,site=mayoclinic.org
+$boost=4,site=webmd.com
+$boost=4,site=medscape.com
+$boost=4,site=psychologytoday.com
+$boost=4,site=medlineplus.gov
+$boost=4,site=healio.com
