@@ -1,6 +1,6 @@
 ! name: HealthyHobby
 ! description: Boosts health-related sites
-! public: true
+! public: false
 ! author: Brayden Crosta
 
 $discard
